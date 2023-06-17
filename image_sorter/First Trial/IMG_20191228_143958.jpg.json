@@ -1,0 +1,49 @@
+{
+  "title": "IMG_20191228_143958.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1577866225",
+    "formatted": "Jan 1, 2020, 8:10:25 AM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1577524198",
+    "formatted": "Dec 28, 2019, 9:09:58 AM UTC"
+  },
+  "geoData": {
+    "latitude": 9.483658388888887,
+    "longitude": 76.61004127777777,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 9.483658388888887,
+    "longitude": 76.61004127777777,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [
+    {
+      "name": "Linjo"
+    },
+    {
+      "name": "Alby"
+    },
+    {
+      "name": "Ally"
+    },
+    {
+      "name": "Linto"
+    }
+  ],
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

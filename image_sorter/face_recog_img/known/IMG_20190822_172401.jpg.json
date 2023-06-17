@@ -1,0 +1,38 @@
+{
+  "title": "IMG_20190822_172401.jpg",
+  "description": "",
+  "imageViews": "0",
+  "creationTime": {
+    "timestamp": "1566844146",
+    "formatted": "Aug 26, 2019, 6:29:06 PM UTC"
+  },
+  "photoTakenTime": {
+    "timestamp": "1566474841",
+    "formatted": "Aug 22, 2019, 11:54:01 AM UTC"
+  },
+  "geoData": {
+    "latitude": 12.820198083333333,
+    "longitude": 80.0392818888889,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "geoDataExif": {
+    "latitude": 12.820198083333333,
+    "longitude": 80.0392818888889,
+    "altitude": 0.0,
+    "latitudeSpan": 0.0,
+    "longitudeSpan": 0.0
+  },
+  "people": [{
+    "name": "Ansar Luttappi"
+  }],
+  "googlePhotosOrigin": {
+    "mobileUpload": {
+      "deviceFolder": {
+        "localFolderName": ""
+      },
+      "deviceType": "ANDROID_PHONE"
+    }
+  }
+}

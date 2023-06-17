@@ -1,0 +1,21 @@
+{
+  "dict1": {
+    "part1": {
+      ".wbxml": "application/vnd.wap.wbxml",
+      ".rl": "application/resource-lists+xml"
+    },
+    "part2": {
+      ".wsdl": "application/wsdl+xml",
+      ".rs": "application/rls-services+xml",
+      ".xop": "application/xop+xml",
+      ".svg": "image/svg+xml"
+    }
+  },
+  "dict2": {
+    "part1": {
+      ".dotx": "application/vnd.openxmlformats-..",
+      ".zaz": "application/vnd.zzazz.deck+xml",
+      ".xer": "application/patch-ops-error+xml"
+    }
+  }
+}
